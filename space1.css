@@ -6,30 +6,44 @@ body {
 
 .frame{
 	background-color: rgba(0,128,0,0.4);
-	
+	width: 620px;
+	margin: 0 auto;
+	padding: 20px 0px 20px 0px;
+
+
 	/* put css-rules in this ccs-block here below */
-	
+
 }
 
 h1{
 	background-color: rgba(0,32,0,0.4);
 	line-height: 40px;
-	
+	padding: 20px 20px 20px 20px;
+	margin: 0px 10px 30px 10px;
+
 	/* put css-rules in this ccs-block here below */
-	
+
 }
 
 h2 {
 	line-height: 30px;
-	
+	padding: 5px 5px 5px 20px;
+	border-style: solid;
+	border-color: purple;
+	border-width: 5px;
+	margin: 0px 10px 0px 10px;
+
+
 	/* put css-rules in this ccs-block here below */
-	
+
 }
 
 p{
 	background-color: rgba(256,256,0,0.4);
 	line-height: 20px;
-	
+	padding: 10px;
+	margin: 10px;
+
 	/* put css-rules in this ccs-block here below */
 
 }
